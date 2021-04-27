@@ -8,6 +8,7 @@
 }
 
 body {
+    background: url(./images/markus-spiske-gkkXxHBoEWY-unsplash.jpg) no-repeat right/cover;
     display: flex;
     justify-content: center;
     align-items: center;
